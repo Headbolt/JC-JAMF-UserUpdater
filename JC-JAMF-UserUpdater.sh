@@ -9,7 +9,7 @@
 #
 #   This Script is designed for use in JAMF and was designed to Grab the current users UPN from JAMF Connect.
 #	and upload it to the Compiter Onect as the "User"
-
+#
 #	This Will require the follow options to be enabled in. Settings > Computer Management > Inventory Collection.
 #
 #	"Allow local administrators to use the jamf binary recon verb to change User and Location inventory information in Jamf Pro"
